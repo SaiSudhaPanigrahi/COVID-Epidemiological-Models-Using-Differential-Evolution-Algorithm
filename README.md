@@ -1,6 +1,6 @@
 # COVID-Epidemiological-Models-Using-Differential-Evolution-Algorithm
 A Comparative Study on Parameter Estimation of COVID Epidemiological Models Using Differential Evolution Algorithm.
-Published in Springer as a part of the Studies in Computational Intelligence book series (SCI,volume 1009)
+Published in Springer, Chapter in book 'Differential Evolution: From Theory to Practice' pp 241–263, Part of the 'Studies in Computational Intelligence' book series (SCI,volume 1009)
 
 [Click here to read the paper](https://link.springer.com/chapter/10.1007/978-981-16-8082-3_9)
 
